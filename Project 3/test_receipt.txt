@@ -1,0 +1,44 @@
+Customer - Karen
+
+ Apples x3 @ $0.990000
+
+ Swiss Cheese x1 @ $2.490000
+
+Total: $5.460000
+Customer did not have enough money and was REJECTED
+Thank you, come back soon!
+-------------------------------------------------------
+Customer - Bob
+
+ Wine x1 @ $12.990000
+
+Total: $12.990000
+Thank you, come back soon!
+-------------------------------------------------------
+Customer - Elmo
+
+ Wine x2 @ $12.990000
+
+ Apples x1 @ $0.990000
+
+Total: $26.969999
+Thank you, come back soon!
+-------------------------------------------------------
+Customer - Karen
+
+ Coffee x3 @ $5.000000
+
+ Wine x1 @ $12.990000
+
+Total: $27.990000
+Customer did not have enough money and was REJECTED
+Thank you, come back soon!
+-------------------------------------------------------
+Customer - Human McPerson
+
+ Wine x10 @ $12.990000
+
+Total: $129.899994
+Customer did not have enough money and was REJECTED
+Thank you, come back soon!
+-------------------------------------------------------
